@@ -26,7 +26,7 @@ Flask
 
 If not installed, run the following:
 
-  pip install flask requests python-dotenv openai
+    pip install flask requests python-dotenv openai
 
 **Installation & Setup**
 
@@ -86,4 +86,6 @@ Ensure you are using OpenAI Python SDK v1.0+.
 **License**
 
 This project is open-source under the MIT License.
+
+![image](https://github.com/user-attachments/assets/91302750-1369-4db2-be02-73bdb5df5e11)
 
